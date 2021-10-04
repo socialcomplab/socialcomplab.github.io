@@ -24,10 +24,10 @@ Repositories of recent publications:
 Head: [Assoc. Prof. Dr. Elisabeth Lex](https://elisabethlex.info/)
 
 PhD students:
+- Markus Reiter-Haas
 - Emanuel Lacic
 - Peter Muellner
 - Tomislav Duricic
-- Markus Reiter-Haas
 
 # Teaching
 
