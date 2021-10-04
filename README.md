@@ -1,7 +1,7 @@
 # Research
 
 Projects:
-- [Project: Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
+- [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
 
 Repositories of recent publications:
 - [Predicting Music Relistening Behavior Using the ACT-R Framework](https://github.com/socialcomplab/recsys21-relistening-actr)
@@ -14,9 +14,18 @@ Repositories of recent publications:
 
 Head: [Assoc. Prof. Dr. Elisabeth Lex](https://elisabethlex.info/)
 
+PhD students:
+- Emanuel Lacic
+- Peter Muellner
+- Tomislav Duricic
+- Markus Reiter-Haas
+
 # Teaching
 
 - [Web Technology](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=258130)
+- [Computational Social Systems 1](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=255706)
+- [Computational Social Systems 2](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259451)
+- [Recommender Systems](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=254321)
 
 # Contact
 
