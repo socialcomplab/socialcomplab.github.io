@@ -35,6 +35,9 @@ PhD students:
 - [Computational Social Systems 1](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=255706)
 - [Computational Social Systems 2](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259451)
 - [Recommender Systems](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=254321)
+- [Human Rights and Artificial Intelligence](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=262129)
+- [Legal Lab 1](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=263168)
+- Introduction to Structured Programming ([Lecture](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=259446) and [Design practical](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=260630))
 
 # Contact
 
