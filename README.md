@@ -1,3 +1,11 @@
+The Recommender Systems and Social Computing Lab studies personalized recommender systems, online social networks, information retrieval and aims to shed light on emergent social phenomena in Web-based systems. 
+This research blends artificial intelligence, machine learning, recommender systems, and computational social science to answer three key questions. 
+1) How can we build online information systems that better serve users, whose interests are not in the mainstream? 
+2) How can we gain a deeper understanding of users and the interplay between user needs and user behavior? 
+3) What are the factors that impact the amplification of polarization and biases online and how can we design intelligent systems that alleviate such phenomena?
+
+Our general interest lies in building systems and new algorithms, and in producing high-quality, responsible and reproducible research results.
+
 # Research
 
 Projects:
