@@ -24,7 +24,7 @@ Repositories of recent publications:
 Head: [Assoc. Prof. Dr. Elisabeth Lex](https://elisabethlex.info/)
 
 PhD students:
-- Markus Reiter-Haas
+- [Markus Reiter-Haas](https://iseratho.github.io/)
 - Emanuel Lacic
 - Peter Muellner
 - Tomislav Duricic
