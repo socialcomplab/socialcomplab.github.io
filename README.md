@@ -10,7 +10,7 @@ Our general interest lies in building systems and new algorithms, and in produci
 # Research
 
 Tutorials:
-- [PIRS: Psychology-informed Recommender Systems](https://github.com/socialcomplab/pirs-psychology-informed-recsys)
+- [PIRS: Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
 
 Projects:
 - [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
