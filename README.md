@@ -32,6 +32,9 @@ PhD students:
 - Peter Muellner
 - Tomislav Duricic
 
+Master's students:
+- Julian Kainz
+
 # Teaching
 
 - [Web Technology](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=258130)
