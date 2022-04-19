@@ -10,7 +10,8 @@ Our general interest lies in building systems and new algorithms, and in produci
 # Research
 
 Tutorials:
-- [PIRS: Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
+- [WEBCONF 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
+- [SIGIR 2022: Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation](https://github.com/socialcomplab/Retrieval-RecSys-AI-Ethics-Regulation-Tutorial-SIGIR22)
 
 Projects:
 - [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
