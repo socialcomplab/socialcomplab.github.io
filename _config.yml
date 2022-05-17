@@ -2,6 +2,6 @@ title: Recommender Systems and Social Computing Lab
 description: >- # this means to ignore newlines until "baseurl:"
   RecSys, Computational Social Science, Credibility & Trust, Networks, Biases
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: socialcomplab/cayman
 github:
   is_project_page: false
