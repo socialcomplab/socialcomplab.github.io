@@ -20,10 +20,11 @@ Our research studies recommender systems, user modeling, information retrieval, 
 
 [8] Reiter-Haas, M., Kloesch, B., Hadler, M., Lex, E. (2022). Polarization of opinions on covid-19 measures: Integrating twitter and survey data. Social Science Computer Review (to appear), 2022.
 
-## Upcoming Tutorials
+## Recent/Upcoming Tutorials
 
 - [WEBCONF 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
 - [SIGIR 2022: Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation](https://socialcomplab.github.io/Retrieval-RecSys-AI-Ethics-Regulation-Tutorial-SIGIR22/)
+- [RecSys 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
 
 ## Current Projects
 - [Polarization in Public Opinion](https://socialcomplab.github.io/polarization/)
