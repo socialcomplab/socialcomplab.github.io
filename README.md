@@ -22,6 +22,7 @@ Our research studies recommender systems, user modeling, information retrieval, 
 
 ## Recent/Upcoming Tutorials
 
+- [WSDM 2023: Trustworthy Algorithmic Ranking Systems](https://socialcomplab.github.io/Trustworthy-Algorithmic-Ranking-Systems-Tutorial/)
 - [WEBCONF 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
 - [SIGIR 2022: Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation](https://socialcomplab.github.io/Retrieval-RecSys-AI-Ethics-Regulation-Tutorial-SIGIR22/)
 - [RecSys 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
@@ -42,21 +43,24 @@ Head: [Assoc. Prof. Dr. Elisabeth Lex](https://elisabethlex.info/)
 
 PhD students:
 - [Markus Reiter-Haas](https://iseratho.github.io/)
-- Emanuel Lacic
 - Peter Muellner
 - Tomislav Duricic
 
 Master's students:
 - Julian Kainz
+- Julian Rudolf
+- Gregor Mayr
+- Kevin Innerhofer
+- Alexander Ertl
 
 Bachelor's students:
-- Gregor Mayr
 - Irene Strauss
 - Lukas Preitler
 - Sandra Haas
 - Edina Mulahasanovic
 
 Alumni:
+- Emanuel Lacic
 - Dominik Kowald
 - Ilire Hasani-Mavriqi
 - Simone Kopeinik
