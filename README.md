@@ -50,7 +50,7 @@ Master's students:
 - Julian Kainz
 - Julian Rudolf
 - Gregor Mayr
-- Kevin Innerhofer
+- Kevin Innerebner
 - Alexander Ertl
 
 Bachelor's students:
