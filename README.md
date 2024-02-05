@@ -68,7 +68,7 @@ Alumni:
 # Teaching
 
 - [Advanced Information Retrieval/Web Technology](https://online.tugraz.at/tug_online/pl/ui/$ctx/LV.edit?clvnr=346944)  
-Project Highlights: [WS 2022](https://socialcomplab.github.io/advancedIR-2022-showcase/)
+Project Highlights: [WS 2022](https://socialcomplab.github.io/advancedIR-2022-showcase/), [WS 2023](https://socialcomplab.github.io/advancedIR-2023-showcase/)
 - [Introduction to Computational Social Systems](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=263165)
 - [Recommender Systems](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=254321)
 - [Human Rights and Artificial Intelligence](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=262129)
