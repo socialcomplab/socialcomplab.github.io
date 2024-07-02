@@ -22,6 +22,7 @@ Our research studies recommender systems, user modeling, information retrieval, 
 
 ## Recent/Upcoming Tutorials
 
+- [UMAP 2024: Trustworthy User Modeling and Recommendation From Technical and Regulatory Perspectives](https://socialcomplab.github.io/Trustworthy-UMAP-Tutorial-24/)
 - [WSDM 2023: Trustworthy Algorithmic Ranking Systems](https://socialcomplab.github.io/Trustworthy-ARS-Tutorial-WSDM22/)
 - [WEBCONF 2022: PIRS - Psychology-informed Recommender Systems](https://socialcomplab.github.io/pirs-psychology-informed-recsys/)
 - [SIGIR 2022: Retrieval and Recommendation Systems at the Crossroads of Artificial Intelligence, Ethics, and Regulation](https://socialcomplab.github.io/Retrieval-RecSys-AI-Ethics-Regulation-Tutorial-SIGIR22/)
