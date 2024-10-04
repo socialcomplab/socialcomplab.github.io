@@ -43,29 +43,38 @@ Research examples include novel approaches for recommender systems, user modelin
 Head: [Assoc. Prof. Dr. Elisabeth Lex](https://elisabethlex.info/)
 
 PhD students:
-- [Markus Reiter-Haas](https://iseratho.github.io/)
+
 - Peter Muellner
 - Tomislav Duricic
-
+- Kevin Innerebner
+- 
 Master's students:
 - Julian Kainz
-- Julian Rudolf
 - Gregor Mayr
-- Kevin Innerebner
-- Alexander Ertl
+- Christoph Schatz
+- Stefan Russmann
 
 Bachelor's students:
-- Irene Strauss
-- Lukas Preitler
-- Sandra Haas
-- Edina Mulahasanovic
+- Jakob Zenz
+- Christian Falk-Ohrenhofer
+- Manuel Riedl
+- Nico Ohler
+- Adam Urosevic
 
 Alumni:
+- [Markus Reiter-Haas](https://iseratho.github.io/)
 - Emanuel Lacic
 - Dominik Kowald
 - Ilire Hasani-Mavriqi
 - Simone Kopeinik
-
+- Julian Rudolf
+- Alexander Ertl
+- Irene Strauss
+- Lukas Preitler
+- Sandra Haas
+- Edina Mulahasanovic
+- Daniel Scharf
+  
 # Teaching
 
 - [Advanced Information Retrieval/Web Technology](https://online.tugraz.at/tug_online/pl/ui/$ctx/LV.edit?clvnr=346944)  
